@@ -1,0 +1,44 @@
+{
+  "scope": "Textbook identities and reported-count arithmetic; not a factory simulation.",
+  "algebra_checks": "passed",
+  "markdown_checks": {
+    "notes": 21,
+    "internal_links": 181,
+    "characters": 66370
+  },
+  "gkp_examples": [
+    {
+      "s_db": 12.25,
+      "variance": 0.029783107176450517,
+      "sd": 0.1725778293305676,
+      "single_coordinate_odd_probability": 2.817984935088397e-07,
+      "mn_added_variance": 0.07516748085768882
+    },
+    {
+      "s_db": 14.0,
+      "variance": 0.019905358527674867,
+      "sd": 0.1410863513160464,
+      "single_coordinate_odd_probability": 3.354287037400963e-10,
+      "mn_added_variance": 0.050237728630191616
+    },
+    {
+      "s_db": 15.6,
+      "variance": 0.01377114351669083,
+      "sd": 0.11735051562175101,
+      "single_coordinate_odd_probability": 4.2874143809583016e-14,
+      "mn_added_variance": 0.0347560165749875
+    }
+  ],
+  "c4_zero_syndrome_example_p001": 0.00040787192397110863,
+  "wrapped_odds_v01_z0": 15.014816087389017,
+  "wrapped_odds_v01_z045a": 1.5707963267943712,
+  "CP_95_3_in_1M": 7.75363809885632e-06,
+  "CP_95_4_in_1M": 9.153495440263295e-06,
+  "Jeffreys_one_sided_0_in_15000": 0.0001280382956053784,
+  "Jeffreys_one_sided_0_in_200000": 9.603588932418955e-06,
+  "CP_0_in_200000": 1.497854918818187e-05,
+  "zero_failure_n_for_CP_1e_5": 299572,
+  "R3_q095": 3637.8947368421054,
+  "cost_ratio": 12.631578947368421,
+  "retention_product": 0.6719999999999999
+}
